@@ -1,0 +1,3 @@
+PYTHON OOPS ASSINGMENT QUESTION
+
+What is a class in OOP What is an object in OOP What is the difference between abstraction and encapsulation What are dunder methods in Python Explain the concept of inheritance in OOP What is polymorphism in OOP How is encapsulation achieved in Python What is a constructor in Python What are class and static methods in Python What is method overloading in Python What is method overriding in OOP What is a property decorator in Python Why is polymorphism important in OOP What is an abstract class in Python What are the advantages of OOP What is multiple inheritance in Python What is the difference betwe
